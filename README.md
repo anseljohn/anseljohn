@@ -1,5 +1,4 @@
 ### Welcome 👋
-Here are some ideas to get you started:
 
 - 📚 MechE and CompSci student at the University of Minnesota
 - 🏎️ FSAE Engine & Active Aero

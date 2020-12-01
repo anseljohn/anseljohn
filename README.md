@@ -6,4 +6,5 @@
 - 🌱 I’m currently reading about neural design applications in artificial intelligence
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
-![anseljohn's github stats](https://github-readme-stats.vercel.app/api?username=anseljohn&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
+![anseljohn's github stats](https://github-readme-stats.vercel.app/api?username=anseljohn&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&count_private=true)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

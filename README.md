@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
 ![anseljohn's github stats](https://github-readme-stats.vercel.app/api?username=anseljohn&theme=vue-dark&show_icons=true)
-
--->

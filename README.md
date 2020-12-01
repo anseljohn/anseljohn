@@ -6,5 +6,8 @@
 - 🌱 I’m currently reading about neural design applications in artificial intelligence
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
-![anseljohn's github stats](https://github-readme-stats.vercel.app/api?username=anseljohn&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&count_private=true)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anseljohn">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anseljohn&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=GitHub+Stats&amp;theme=vue" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anseljohn&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=GitHub+Stats&amp;theme=vue" style="max-width:100%;">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anseljohn&amp;layout=compact&amp;theme=vue" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anseljohn&amp;layout=compact&amp;theme=vue" style="max-width:100%;">
+</a>

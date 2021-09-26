@@ -1,9 +1,9 @@
 ### Welcome 👋
 
-- 📚 MechE and CompSci student at the University of Minnesota
-- 🏎️ FSAE Engine & Active Aero
-- 🔭 I’m currently working on a web accessible door monitoring system
-- 🌱 I’m currently reading about neural design applications in artificial intelligence
+- 📚 CompSci student at the University of Minnesota
+- 🛰️ UMN Small Satellite Lab
+- 🔭 I'm currently working on a live video feed word search solver
+- 🌱 I’m currently reading about machine learning applications
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
 <a href="https://github.com/anseljohn">

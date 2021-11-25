@@ -2,8 +2,8 @@
 
 - 📚 CompSci student at the University of Minnesota
 - 🛰️ UMN Small Satellite Lab
-- 🔭 I'm currently working on a live video feed word search solver
-- 🌱 I’m currently reading about machine learning applications
+- 🔭 I'm currently working on a Linux-themed student planner and a LSTM stock predictor.
+- 🌱 I’m currently reading about machine learning in finance
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
 <a href="https://github.com/anseljohn">

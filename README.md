@@ -6,8 +6,12 @@
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
 ### GitHub Stats
-[![anseljohn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anseljohn&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anseljohn&layout=compact&theme=dark&exclude_repo=dotfiles,HouseValuation,ML-Exercises&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anseljohn&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anseljohn&layout=compact&theme=dark&exclude_repo=dotfiles,HouseValuation,ML-Exercises&langs_count=6" />
+</a>
 
 ### WakaTime
 [![anseljohn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anseljohn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

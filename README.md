@@ -14,4 +14,4 @@
 </a>
 
 ### WakaTime
-[![anseljohn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anseljohn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![anseljohn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anseljohn&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)

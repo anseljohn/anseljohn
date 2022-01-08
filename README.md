@@ -1,7 +1,8 @@
 ### Welcome 👋
 - 📚 CompSci student at the University of Minnesota
 - 🛰️ UMN Small Satellite Lab
-- 🔭 I'm currently working on a Linux-themed student planner and a LSTM stock predictor.
+- 🔭 I'm currently working on a Linux-themed student planner.
+- 💻 I am researching/looking into quantum applied machine learning algorithms and examples of MPST in both directed and undirected graphs.
 - 🌱 I’m currently reading about machine learning in finance
 - 📫 How to reach me: jjohnanselmo@gmail.com
 

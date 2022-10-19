@@ -1,9 +1,8 @@
 ### Welcome 👋
 - 📚 CompSci student at the University of Minnesota
-- 🛰️ UMN Small Satellite Lab
-- 🔭 I'm currently working on a Linux-themed student planner.
-- 💻 I am researching/looking into quantum applied machine learning algorithms and examples of MPST in both directed and undirected graphs.
-- 🌱 I’m currently reading about machine learning in finance
+- 🔭 I'm currently working on a crime time-series heatmap and looking into intelligent noise reduction techniques in photography.
+- 💻 I am helping [Ghislain St-Yves](https://github.com/styvesg) with an NSD predictor wrapper for custom layer pooling application.
+- 🌱 I'm currently reading an introductory textbook into computational neuroscience.
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
 ### GitHub Stats

@@ -1,8 +1,8 @@
 ### Welcome 👋
 - 📚 CompSci student at the University of Minnesota
-- 🔭 I'm currently working on a crime time-series heatmap and looking into intelligent noise reduction techniques in photography.
+- 🔭 I'm currently working on a quantum image classifier
 - 💻 I am helping [Ghislain St-Yves](https://github.com/styvesg) with an NSD predictor wrapper for custom layer pooling application.
-- 🌱 I'm currently reading an introductory textbook into computational neuroscience.
+- 🌱 I'm currently reading "The Elegant Universe" by Briane Greene
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
 ### GitHub Stats

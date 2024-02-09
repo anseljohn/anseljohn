@@ -1,5 +1,4 @@
 ### Welcome 👋
-- 📚 CompSci student at the University of Minnesota
 - 🔭 I'm currently working on a quantum image classifier
 - 💻 I am helping [Ghislain St-Yves](https://github.com/styvesg) with an NSD predictor wrapper for custom layer pooling application.
 - 🌱 I'm currently reading "The Elegant Universe" by Briane Greene

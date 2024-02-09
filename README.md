@@ -1,6 +1,6 @@
 ### Welcome 👋
 - 🔭 I'm currently working on a quantum image classifier
-- 💻 I am helping [Ghislain St-Yves](https://github.com/styvesg) with an NSD predictor wrapper for custom layer pooling application.
+- 💻 I am helping [Miguel Anselmo](https://twin-cities.umn.edu/news-events/persistence-passion-and-purpose) with automating the analysis of spontaneous sympathetic neurohemodynamic transduction
 - 🌱 I'm currently reading "The Elegant Universe" by Briane Greene
 - 📫 How to reach me: jjohnanselmo@gmail.com
 
